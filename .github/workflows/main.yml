@@ -21,4 +21,4 @@ jobs:
         host: 95.46.210.87
         username: deployuser
         password: 8m2T7EKNhTPMndmT
-        script: sudo systemctl restart superadmin
+        script: sudo systemctl restart istan
